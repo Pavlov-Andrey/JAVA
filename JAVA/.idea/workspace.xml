@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57091db7-20d0-407a-87a3-1f2184836a04" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Final_test_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork1/HWork1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork1/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork2/HWork2.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork2/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork3/HWork3.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork3/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork4/HWork4.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork4/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork5/HWork5.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork5/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork6/HWork6.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork6/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork7/HWork7.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork7/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork8/HWork8.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork8/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork9/HWork9.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/HWork9/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/C#/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/HomeWorks/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar1/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar1/Seminar1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar2/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar2/Seminar2.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar3/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar3/Seminar3.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar4/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar4/Seminar4.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar5/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar5/Seminar5.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar6/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar6/Seminar6.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar7/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar7/Seminar7.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar8/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar8/Seminar8.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar9/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C#/Seminars/SeminarsC#/Seminar9/Seminar9.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyton/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyton/.idea/Pyton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyton/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyton/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyton/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyton/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyton/HOMEWORKS/HW2/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyton/LECTURE/Lec01/Hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyton/SEMINARS/Sem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyton/SEMINARS/Sem11.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyton/SEMINARS/Sem11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyton/SEMINARS/final_python.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyton/SEMINARS/sem3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pyton/SEMINARS/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pyton/HOMEWORKS/HW3/task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Pyton/HOMEWORKS/HW3/task5.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2LXTtUJEnwXuyhy7HOxCoPStMpC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57091db7-20d0-407a-87a3-1f2184836a04" name="Changes" comment="" />
+      <created>1676016643010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676016643010</updated>
+    </task>
+    <servers />
+  </component>
+</project>
