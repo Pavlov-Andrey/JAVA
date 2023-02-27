@@ -8,7 +8,7 @@ import java.util.*;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
-public class Task1 {
+public class Main {
     public static void main(String[] args) {
         String students = "{\"name\":\"Ivanov\", \"country\":\"Russia\", \"city\":\"Moscow\", \"age\": null }";
         System.out.println(createRequest(students));
